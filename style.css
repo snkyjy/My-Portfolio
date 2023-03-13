@@ -1,0 +1,147 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: rgb(160, 160, 160);
+}
+
+html::-webkit-scrollbar {
+    display: none;
+}
+
+#main-nav {
+    background: rgb(160, 160, 160);
+}
+
+
+section {
+    min-height: 100vh;
+    max-height: 200vh;
+}
+
+#home {
+    background-color: gainsboro;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#about {
+    border-radius: 50px;
+    margin: 10px;
+    background-color: gainsboro;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: justify;
+}
+
+#project {
+    min-height: 110vh;
+    border-radius: 50px;
+    margin: 10px;
+    background-color: gainsboro;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: justify;
+}
+
+#contact {
+    border-radius: 50px;
+    margin: 10px;
+    min-height: 60vh;
+    background-color: gainsboro;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: justify;
+}
+
+#footer {
+    min-height: auto;
+    background: rgb(160, 160, 160);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: justify;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+#myPicture {
+    height: 300px;
+    width: 300px;
+    margin: 25px;
+    border-radius: 100px;
+    position: absolute;
+}
+
+#dentalSearch {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+#resume {
+    text-align: center;
+}
+
+#col {
+    margin-top: 10%;
+}
+
+i {
+    color: black;
+}
+
+p {
+    font-size: 25px;
+}
+
+#divider {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 7px;
+    border-radius: 10px;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+
+#capstone {
+    font-size: 25px;
+}
+
+#capstone1 {
+    font-size: 20px;
+    text-align: justify;
+}
+
+#contact1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.email {
+    text-decoration: none;
+    color: black;
+}
+
+#social {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+#footer {
+
+}
